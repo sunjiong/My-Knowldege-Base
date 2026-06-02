@@ -3,14 +3,14 @@ title: Sun Jiong
 date: 2026-06-02
 ---
 
-## My First Post
+### Brief Introduction
 
-Activity: Create a blog post
+- A Lifelong Learner and Practitioner
 
-- Browse to the main branch.
+- Teacher
 
-- Click the Add file dropdown menu and then on Create new file.
+- Writer
 
-- Name the file following the _posts/YYYY-MM-DD-title.md format.
+- Investor
 
-- Replace the YYYY-MM-DD with today's date, and change the title of your first blog post if you'd like.
+**For more information, add [WeChat official account](), [Github](), and [CSDN]()**
