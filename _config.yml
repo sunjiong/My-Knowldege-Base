@@ -2,9 +2,7 @@ theme: minima
 description: This is where I deliver the value and ideas
 title: The Knowledge Pool
 email: sunjiong821@gmail.com
-
-baseurl: ""
-url: ""
-
+#baseurl: ""
+#url: ""
 twitter_username: Sun Jiong
 github_usename: Sun Jiong
