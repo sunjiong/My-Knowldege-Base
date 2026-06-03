@@ -2,9 +2,8 @@
 title: Sun Jiong
 date: 2026-06-02
 ---
-<img src="assets/self.jpg" width="200" height="200" align="right" alt="xxxx" title="It's ME">
 
-### Brief Introduction
+<img src="assets/self.jpg" width="200" height="200" align="right" alt="xxxx">
 
 - **A Lifelong Learner and Practitioner**
 
@@ -14,7 +13,7 @@ date: 2026-06-02
 
 - **Investor**
 
-**For more information, add [WeChat official account](), [Github](), and [CSDN]()**
+**For more information, Go to [Wechat Official Account](), [Github](), [Weibo](),and [CSDN]() .**
+
 
 ---
-
